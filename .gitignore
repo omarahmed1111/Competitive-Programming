@@ -2,5 +2,5 @@
 .vscode
 */*
 !*/*.cpp
-!*/*/*.cpp
+!codeforces/div2/*.cpp
 !*/*.md
