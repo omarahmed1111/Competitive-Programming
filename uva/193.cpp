@@ -40,6 +40,8 @@ int main(){
     cin>>t;
     while(t--){
         mx=0;
+        black = set<int>();
+        gmx = set<int>();
         int m;
         cin>>n>>m;
         g = map<pair<int,int>, bool>();
